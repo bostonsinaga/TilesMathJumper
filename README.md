@@ -1,4 +1,4 @@
-# Tiles Math Jumper (<a href="https://cocos.com/en">cocos2d-x</a>)
+# Tiles Math Jumper (<a href="https://www.cocos.com/en">Cocos2d-x</a>)
 
 Blocky jumping on tiles.
 Match the blocky's color with the colored tiles.
